@@ -7,6 +7,9 @@ This repository contains a Django REST backend and a Vite + React frontend. The 
 - **Node 16+ / npm**: for the frontend (Vite).
 - **Git**, optional.
 
+**Swagger Docs: localhost:8000/api/docs/**
+
+
 **Backend — Quickstart**:
 - **Install & activate venv (Windows PowerShell)**:
 
